@@ -30,12 +30,6 @@ clock = pygame.time.Clock()
 
 myFont= pygame.font.SysFont("monospace",35)
 
-#idea for seperating enemies with a minimum distance = the size of the player
-#as bonus levels between levels every time score reaches a 100
-#idea to go TO SCHOOL WITH THIS AND CUSTOMISE IT SO THAT IT ASKS THE NAME OF THE PLAYER AND DOESNT ACCEPT THE NAME AGAIN
-#TO MAKE SURE SAME PERSON DOESNT PLAY AGAIN
-#GO TO SCHOOL AS A WAY TO BUILD AWARENESS AROUND THE FIELD Of coding and encourage this among youth
-
 def set_level1(score,SPEED):
 	# if score <20:
 	# 	SPEED=10
